@@ -27,18 +27,6 @@
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 
-# Table of Contents
-
-1. [Badges](#badges)
-2. [Project Overview](#the-islamic-dawah-application-balagh)
-3. [Balagh Logo & Download](#balagh-logo--download)
-4. [Source Code & Description](#source-code--description)
-5. [Screenshots & Features](#screenshots--features-users-applications--admin-panel)
-   - [Users App](#1users-app)
-   - [Admin Panel](#2admin-panel)
-6. [For Similar Applications](#for-similar-applications)
-
-
 
 # **Badges**
 [![Contributors][contributors-shield]][contributors-url]
@@ -67,6 +55,18 @@
     </tr>
   </tbody>
 </table>
+
+# Table of Contents
+
+1. [Badges](#badges)
+2. [Project Overview](#the-islamic-dawah-application-balagh)
+3. [Balagh Logo & Download](#balagh-logo--download)
+4. [Source Code & Description](#source-code--description)
+5. [Screenshots & Features](#screenshots--features-users-applications--admin-panel)
+   - [Users App](#1users-app)
+   - [Admin Panel](#2admin-panel)
+6. [For Similar Applications](#for-similar-applications)
+
 
 # **Balagh Logo & Download**
 
