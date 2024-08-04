@@ -56,34 +56,34 @@
   </tbody>
 </table>
 
-# Sc# Screenshots
+# Screenshots
 <p align="center">
     <h2>Users Application Screenshots</h2>
 </p>
 
 Login | Register | Home
 ---|---|---
-<img style="width: 33%; max-width: 300px;" alt="Login" src="screenshots/Users-App/login.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Register" src="screenshots/Users-App/register.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Home" src="screenshots/Users-App/home.jpg">
+<img width="250" alt="Login" src="screenshots/Users-App/login.jpg"> | <img width="250" alt="Register" src="screenshots/Users-App/register.jpg"> | <img width="250" alt="Home" src="screenshots/Users-App/home.jpg">
 
 Profile | Settings | Define Islam
 ---|---|---
-<img style="width: 33%; max-width: 300px;" alt="Profile" src="screenshots/Users-App/profile.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Settings" src="screenshots/Users-App/settings.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Define Islam" src="screenshots/Users-App/define-islam.jpg">
+<img width="250" alt="Profile" src="screenshots/Users-App/profile.jpg"> | <img width="250" alt="Settings" src="screenshots/Users-App/settings.jpg"> | <img width="250" alt="Define Islam" src="screenshots/Users-App/define-islam.jpg">
 
 Information | Contact Us | Saved Content
 ---|---|---
-<img style="width: 33%; max-width: 300px;" alt="Information" src="screenshots/Users-App/info.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Contact Us" src="screenshots/Users-App/contact-us.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Saved Content" src="screenshots/Users-App/saved-content.jpg">
+<img width="250" alt="Information" src="screenshots/Users-App/info.jpg"> | <img width="250" alt="Contact Us" src="screenshots/Users-App/contact-us.jpg"> | <img width="250" alt="Saved Content" src="screenshots/Users-App/saved-content.jpg">
 
 Content Main Branch | Content Second Branch | Content Main Screen
 ---|---|---
-<img style="width: 33%; max-width: 300px;" alt="Content Main Branch" src="screenshots/Users-App/branch-1.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Content Second Branch" src="screenshots/Users-App/branch-2.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Content Main Screen" src="screenshots/Users-App/videos.jpg">
+<img width="250" alt="Content Main Branch" src="screenshots/Users-App/branch-1.jpg"> | <img width="250" alt="Content Second Branch" src="screenshots/Users-App/branch-2.jpg"> | <img width="250" alt="Content Main Screen" src="screenshots/Users-App/videos.jpg">
 
 Da'wa Form 1 | Da'wa Form 2 | Define Islam EN
 ---|---|---
-<img style="width: 33%; max-width: 300px;" alt="Da'wa Form 1" src="screenshots/Users-App/form-1.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Da'wa Form 2" src="screenshots/Users-App/form-2.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Define Islam EN" src="screenshots/Users-App/define-islam-en.jpg">
+<img width="250" alt="Da'wa Form 1" src="screenshots/Users-App/form-1.jpg"> | <img width="250" alt="Da'wa Form 2" src="screenshots/Users-App/form-2.jpg"> | <img width="250" alt="Define Islam EN" src="screenshots/Users-App/define-islam-en.jpg">
 
 Login English | Register English | Home English
 ---|---|---
-<img style="width: 33%; max-width: 300px;" alt="Login English" src="screenshots/Users-App/login-en.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Register English" src="screenshots/Users-App/register-en.jpg"> | <img style="width: 33%; max-width: 300px;" alt="Home English" src="screenshots/Users-App/home-en.jpg">
+<img width="250" alt="Login English" src="screenshots/Users-App/login-en.jpg"> | <img width="250" alt="Register English" src="screenshots/Users-App/register-en.jpg"> | <img width="250" alt="Home English" src="screenshots/Users-App/home-en.jpg">
 
 
 
