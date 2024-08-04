@@ -56,7 +56,7 @@
 <table border="1" width="100%" align="center">
   <thead>
     <tr>
-      <th colspan="2">Balagh Logo</th>
+      <th colspan="2">Balagh Logo & Download</th>
     </tr>
   </thead>
   <tbody>
@@ -84,20 +84,20 @@
 <table border="1" width="100%" align="center">
   <thead>
     <tr>
-      <th colspan="2">Balagh Logo</th>
+      <th colspan="2">Source Code & Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <h2>Source Code</h2>
-         <a href="https://younes-codes.web.app">
-    <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
-  </a>
-      </td>
-      <td align="left" width="50%">
         <h2>App Description</h2>
         <p>It might take some time for the app to get uploaded due to the strict policies of the app stores</p>
+      </td>
+      <td align="left" width="50%">
+  <h2>Source Code</h2>
+         <a href="https://younes-codes.web.app">
+      <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
+     </a>
        </p>
       </td>
     </tr>
