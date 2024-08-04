@@ -23,7 +23,7 @@
 </table>
 
 
-<table border="1" align="center">
+<table border="1" width="100%" align="center">
   <thead>
     <tr>
       <th colspan="2">أيقونة التطبيق</th>
@@ -31,11 +31,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <img width="320" alt="wonderous-banner-320w" src="logo.png">
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <h3>Coming Soon</h3>
+        <p>Download the app from the App Store and Google Play when it becomes available.</p>
         <p>
           <a href="#">
             <img width="150" alt="Download on the App Store" src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2022-03-15&kind=iossoftware&bubble=ios_apps">
