@@ -5,12 +5,12 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# **تطبيق الدعوة الاسلامية بلاغ**
+# **The Islamic Da'wah Application Balagh**
 
 <table border="1" align="center">
   <thead>
     <tr>
-      <th>بوستر تطبيق بلاغ</th>
+      <th>Application's Logo</th>
     </tr>
   </thead>
   <tbody>
@@ -26,7 +26,7 @@
 <table border="1" width="100%" align="center">
   <thead>
     <tr>
-      <th colspan="2">أيقونة التطبيق</th>
+      <th colspan="2">Balagh Logo</th>
     </tr>
   </thead>
   <tbody>
