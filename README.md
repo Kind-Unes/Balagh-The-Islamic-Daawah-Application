@@ -80,7 +80,6 @@
   </tbody>
 </table>
 
-
 <table border="1" width="100%" align="center">
   <thead>
     <tr>
@@ -91,19 +90,16 @@
     <tr>
       <td align="center" width="50%">
         <h2>App Description</h2>
-        ## Arabic:
-        <p>يهدف هذا البرنامج إلى دعوة الناس للإسلام من خلال جمع بيانات المدعوين ومراجعتها من قِبل الدعاة للتواصل معهم. يقدم البرنامج أيضًا تعليماً لمبادئ الدين الإسلامي للجدد عبر مقالات، وكتب إلكترونية، وملخصات عن الإسلام.  لتنفيذ هذا الهدف بكفاءة، تم تصميم لوحة تحكم متقدمة ونظام قوي يسهل عملية الدعوة الإسلامية بشكل فعال.</p>
-        ## English:
-        
+        <p><strong>Arabic:</strong></p>
+        <p>يهدف هذا البرنامج إلى دعوة الناس للإسلام من خلال جمع بيانات المدعوين ومراجعتها من قِبل الدعاة للتواصل معهم. يقدم البرنامج أيضًا تعليماً لمبادئ الدين الإسلامي للجدد عبر مقالات، وكتب إلكترونية، وملخصات عن الإسلام. لتنفيذ هذا الهدف بكفاءة، تم تصميم لوحة تحكم متقدمة ونظام قوي يسهل عملية الدعوة الإسلامية بشكل فعال.</p>
+        <p><strong>English:</strong></p>
         <p>This program aims to invite people to Islam by collecting information about the invitees and having it reviewed by da’wahs (Islamic preachers) for follow-up. It also provides education on Islamic principles for newcomers through articles, e-books, and insights into Islam. To achieve this goal efficiently, a sophisticated control panel and a robust system have been designed to facilitate the process of Islamic da’wah effectively.</p>
-
       </td>
       <td align="center" width="50%">
-  <h2>Source Code</h2>
-         <a href="https://younes-codes.web.app">
-      <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
-     </a>
-       </p>
+        <h2>Source Code</h2>
+        <a href="https://younes-codes.web.app">
+          <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
+        </a>
       </td>
     </tr>
   </tbody>
