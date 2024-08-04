@@ -13,15 +13,6 @@ Navigator Setting | Settings | MainPage background
 <img width="200" alt="018" src="https://user-images.githubusercontent.com/30992818/65006487-c5690900-d935-11e9-9459-d10928aa8440.png"> | <img width="200" alt="018" src="https://user-images.githubusercontent.com/30992818/65006488-c6019f80-d935-11e9-8751-745a22443b73.png"> | <img width="200" alt="018" src="https://user-images.githubusercontent.com/30992818/65006496-c7cb6300-d935-11e9-839b-0f84c8c1b20b.png">
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -38,21 +29,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
+[forks-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
+[stars-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
+[issues-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/issues
+[license-shield]: https://img.shields.io/github/license/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
+[license-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/younes-hellalet
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
