@@ -37,15 +37,19 @@
       <td align="left" width="50%">
         <h2>Coming Soon For The App Stores</h2>
         <p>It might take some time for the app to get uploaded due to the strict policies of the app stores</p>
-        <p>
-          <a href="#">
-            <img width="150" alt="Download on the App Store" src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2022-03-15&kind=iossoftware&bubble=ios_apps">
+       <p align="center">
+          <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
+            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
           </a>
-        </p>
-        <p>
-          <a href="#">
-            <img width="150" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
+          <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
+          <!-- </a>
+          <a href="https://appgallery.huawei.com/#/app/CXXXXXXXX" target="_blank">
+            <img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/stores/Generic/00000002/headers/appgallery_generic_header.png" alt="Available on Huawei AppGallery" width="150"/>
           </a>
+          <a href="screenshots/app-galery.png" target="_blank">
+            <img src="screenshots/amazon-appstore.png" alt="Available on Amazon Appstore" width="150"/>
+          </a> -->
         </p>
       </td>
     </tr>
