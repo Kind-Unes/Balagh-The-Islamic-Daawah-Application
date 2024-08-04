@@ -91,9 +91,14 @@
     <tr>
       <td align="center" width="50%">
         <h2>App Description</h2>
-        <p>It might take some time for the app to get uploaded due to the strict policies of the app stores</p>
+        ## Arabic:
+        <p>يهدف هذا البرنامج إلى دعوة الناس للإسلام من خلال جمع بيانات المدعوين ومراجعتها من قِبل الدعاة للتواصل معهم. يقدم البرنامج أيضًا تعليماً لمبادئ الدين الإسلامي للجدد عبر مقالات، وكتب إلكترونية، وملخصات عن الإسلام.  لتنفيذ هذا الهدف بكفاءة، تم تصميم لوحة تحكم متقدمة ونظام قوي يسهل عملية الدعوة الإسلامية بشكل فعال.</p>
+        ## English:
+        
+        <p>This program aims to invite people to Islam by collecting information about the invitees and having it reviewed by da’wahs (Islamic preachers) for follow-up. It also provides education on Islamic principles for newcomers through articles, e-books, and insights into Islam. To achieve this goal efficiently, a sophisticated control panel and a robust system have been designed to facilitate the process of Islamic da’wah effectively.</p>
+
       </td>
-      <td align="left" width="50%">
+      <td align="center" width="50%">
   <h2>Source Code</h2>
          <a href="https://younes-codes.web.app">
       <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
@@ -104,14 +109,9 @@
   </tbody>
 </table>
 
-# You can Source code (For multiple Applications) Via :
-<p align="center">
- 
-</p>
 
 
-
-# Screenshots
+# Screenshots (Users Applications & Admin Panel) :
 <p align="center">
     <h2>Users Application Screenshots</h2>
 </p>
@@ -175,6 +175,48 @@
 <img width="260" alt="Image 43" src="screenshots/Admin-panel/sc (43).jpg"> | <img width="260" alt="Image 44" src="screenshots/Admin-panel/sc (44).jpg"> | <img width="260" alt="Image 45" src="screenshots/Admin-panel/sc (45).jpg">
 
 <img width="260" alt="Image 46" src="screenshots/Admin-panel/sc (46).jpg"> | <img width="260" alt="Image 47" src="screenshots/Admin-panel/sc (47).jpg"> | <img width="260" alt="Image 48" src="screenshots/Admin-panel/sc (48).jpg">
+
+
+## Features
+
+### Users App
+
+- **Rich Da'awa form** 
+  - Invite your non-muslims friends to islam using our REich dynamic Form.
+- **Educational Resources:** 
+  - Access educational videos, articles, and e-books on Islam.
+  - Brief glances about Islamic teachings.
+- **Personalized Profiles:** 
+  - Customize and manage personal profiles.
+- **Multilingual Support:** 
+  - Available in Arabic and English.
+
+### Admin Panel
+
+- **Admin Access:** 
+  - Separate panels for app owners, Islamic associations, and daieas.
+- **Global Statistics:** 
+  - Detailed insights into da'awa activities and outcomes.
+- **User & Da'awa Stats:** 
+  - Track data on users, daieas, and associations.
+- **Content Management:** 
+  - Manage educational content and define Islamic concepts.
+- **Form Options Management:** 
+  - Configure languages, religions, and countries.
+- **Association & Da'awa Management:** 
+  - Oversee associations and daieas with control panels.
+- **Request Management:** 
+  - Track and manage da'awa requests with detailed status updates.
+- **Result Of Da'awa:** 
+  - Track the Da'awa progess and results.
+
+
+# For Similar Applications:
+Contact Me Via: [hellalet.younes@gmail.com](mailto:hellalet.younes@gmail.com)
+
+
+
+
 
 
 
