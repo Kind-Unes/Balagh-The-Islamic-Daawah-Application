@@ -34,8 +34,8 @@
       <td align="center" width="50%">
         <img width="320" alt="wonderous-banner-320w" src="logo.png">
       </td>
-      <td align="center" width="50%">
-        <h1>Coming Soon For The App Stores</h1>
+      <td align="left" width="50%">
+        <h2>Coming Soon For The App Stores</h2>
         <p>It might take some time for the app to get uploaded due to the strict policies of the app stores</p>
         <p>
           <a href="#">
