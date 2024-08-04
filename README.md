@@ -82,37 +82,37 @@ Login English | Register English | Home English
     <h2>Admins-Panel Application Screenshots</h2>
 </p>
 
-<img style="width: 250px;" alt="Image 1" src="images/sc1.jpg"> | <img style="width: 250px;" alt="Image 2" src="images/sc2.jpg"> | <img style="width: 250px;" alt="Image 3" src="images/sc3.jpg">
+<img style="width: 250px;" alt="Image 1" src="Admin-panel/sc1.jpg"> | <img style="width: 250px;" alt="Image 2" src="Admin-panel/sc2.jpg"> | <img style="width: 250px;" alt="Image 3" src="Admin-panel/sc3.jpg">
 
-<img style="width: 250px;" alt="Image 4" src="images/sc4.jpg"> | <img style="width: 250px;" alt="Image 5" src="images/sc5.jpg"> | <img style="width: 250px;" alt="Image 6" src="images/sc6.jpg">
+<img style="width: 250px;" alt="Image 4" src="Admin-panel/sc4.jpg"> | <img style="width: 250px;" alt="Image 5" src="Admin-panel/sc5.jpg"> | <img style="width: 250px;" alt="Image 6" src="Admin-panel/sc6.jpg">
 
-<img style="width: 250px;" alt="Image 7" src="images/sc7.jpg"> | <img style="width: 250px;" alt="Image 8" src="images/sc8.jpg"> | <img style="width: 250px;" alt="Image 9" src="images/sc9.jpg">
+<img style="width: 250px;" alt="Image 7" src="Admin-panel/sc7.jpg"> | <img style="width: 250px;" alt="Image 8" src="Admin-panel/sc8.jpg"> | <img style="width: 250px;" alt="Image 9" src="Admin-panel/sc9.jpg">
 
-<img style="width: 250px;" alt="Image 10" src="images/sc10.jpg"> | <img style="width: 250px;" alt="Image 11" src="images/sc11.jpg"> | <img style="width: 250px;" alt="Image 12" src="images/sc12.jpg">
+<img style="width: 250px;" alt="Image 10" src="Admin-panel/sc10.jpg"> | <img style="width: 250px;" alt="Image 11" src="Admin-panel/sc11.jpg"> | <img style="width: 250px;" alt="Image 12" src="Admin-panel/sc12.jpg">
 
-<img style="width: 250px;" alt="Image 13" src="images/sc13.jpg"> | <img style="width: 250px;" alt="Image 14" src="images/sc14.jpg"> | <img style="width: 250px;" alt="Image 15" src="images/sc15.jpg">
+<img style="width: 250px;" alt="Image 13" src="Admin-panel/sc13.jpg"> | <img style="width: 250px;" alt="Image 14" src="Admin-panel/sc14.jpg"> | <img style="width: 250px;" alt="Image 15" src="Admin-panel/sc15.jpg">
 
-<img style="width: 250px;" alt="Image 16" src="images/sc16.jpg"> | <img style="width: 250px;" alt="Image 17" src="images/sc17.jpg"> | <img style="width: 250px;" alt="Image 18" src="images/sc18.jpg">
+<img style="width: 250px;" alt="Image 16" src="Admin-panel/sc16.jpg"> | <img style="width: 250px;" alt="Image 17" src="Admin-panel/sc17.jpg"> | <img style="width: 250px;" alt="Image 18" src="Admin-panel/sc18.jpg">
 
-<img style="width: 250px;" alt="Image 19" src="images/sc19.jpg"> | <img style="width: 250px;" alt="Image 20" src="images/sc20.jpg"> | <img style="width: 250px;" alt="Image 21" src="images/sc21.jpg">
+<img style="width: 250px;" alt="Image 19" src="Admin-panel/sc19.jpg"> | <img style="width: 250px;" alt="Image 20" src="Admin-panel/sc20.jpg"> | <img style="width: 250px;" alt="Image 21" src="Admin-panel/sc21.jpg">
 
-<img style="width: 250px;" alt="Image 22" src="images/sc22.jpg"> | <img style="width: 250px;" alt="Image 23" src="images/sc23.jpg"> | <img style="width: 250px;" alt="Image 24" src="images/sc24.jpg">
+<img style="width: 250px;" alt="Image 22" src="Admin-panel/sc22.jpg"> | <img style="width: 250px;" alt="Image 23" src="Admin-panel/sc23.jpg"> | <img style="width: 250px;" alt="Image 24" src="Admin-panel/sc24.jpg">
 
-<img style="width: 250px;" alt="Image 25" src="images/sc25.jpg"> | <img style="width: 250px;" alt="Image 26" src="images/sc26.jpg"> | <img style="width: 250px;" alt="Image 27" src="images/sc27.jpg">
+<img style="width: 250px;" alt="Image 25" src="Admin-panel/sc25.jpg"> | <img style="width: 250px;" alt="Image 26" src="Admin-panel/sc26.jpg"> | <img style="width: 250px;" alt="Image 27" src="Admin-panel/sc27.jpg">
 
-<img style="width: 250px;" alt="Image 28" src="images/sc28.jpg"> | <img style="width: 250px;" alt="Image 29" src="images/sc29.jpg"> | <img style="width: 250px;" alt="Image 30" src="images/sc30.jpg">
+<img style="width: 250px;" alt="Image 28" src="Admin-panel/sc28.jpg"> | <img style="width: 250px;" alt="Image 29" src="Admin-panel/sc29.jpg"> | <img style="width: 250px;" alt="Image 30" src="Admin-panel/sc30.jpg">
 
-<img style="width: 250px;" alt="Image 31" src="images/sc31.jpg"> | <img style="width: 250px;" alt="Image 32" src="images/sc32.jpg"> | <img style="width: 250px;" alt="Image 33" src="images/sc33.jpg">
+<img style="width: 250px;" alt="Image 31" src="Admin-panel/sc31.jpg"> | <img style="width: 250px;" alt="Image 32" src="Admin-panel/sc32.jpg"> | <img style="width: 250px;" alt="Image 33" src="Admin-panel/sc33.jpg">
 
-<img style="width: 250px;" alt="Image 34" src="images/sc34.jpg"> | <img style="width: 250px;" alt="Image 35" src="images/sc35.jpg"> | <img style="width: 250px;" alt="Image 36" src="images/sc36.jpg">
+<img style="width: 250px;" alt="Image 34" src="Admin-panel/sc34.jpg"> | <img style="width: 250px;" alt="Image 35" src="Admin-panel/sc35.jpg"> | <img style="width: 250px;" alt="Image 36" src="Admin-panel/sc36.jpg">
 
-<img style="width: 250px;" alt="Image 37" src="images/sc37.jpg"> | <img style="width: 250px;" alt="Image 38" src="images/sc38.jpg"> | <img style="width: 250px;" alt="Image 39" src="images/sc39.jpg">
+<img style="width: 250px;" alt="Image 37" src="Admin-panel/sc37.jpg"> | <img style="width: 250px;" alt="Image 38" src="Admin-panel/sc38.jpg"> | <img style="width: 250px;" alt="Image 39" src="Admin-panel/sc39.jpg">
 
-<img style="width: 250px;" alt="Image 40" src="images/sc40.jpg"> | <img style="width: 250px;" alt="Image 41" src="images/sc41.jpg"> | <img style="width: 250px;" alt="Image 42" src="images/sc42.jpg">
+<img style="width: 250px;" alt="Image 40" src="Admin-panel/sc40.jpg"> | <img style="width: 250px;" alt="Image 41" src="Admin-panel/sc41.jpg"> | <img style="width: 250px;" alt="Image 42" src="Admin-panel/sc42.jpg">
 
-<img style="width: 250px;" alt="Image 43" src="images/sc43.jpg"> | <img style="width: 250px;" alt="Image 44" src="images/sc44.jpg"> | <img style="width: 250px;" alt="Image 45" src="images/sc45.jpg">
+<img style="width: 250px;" alt="Image 43" src="Admin-panel/sc43.jpg"> | <img style="width: 250px;" alt="Image 44" src="Admin-panel/sc44.jpg"> | <img style="width: 250px;" alt="Image 45" src="Admin-panel/sc45.jpg">
 
-<img style="width: 250px;" alt="Image 46" src="images/sc46.jpg"> | <img style="width: 250px;" alt="Image 47" src="images/sc47.jpg"> | <img style="width: 250px;" alt="Image 48" src="images/sc48.jpg">
+<img style="width: 250px;" alt="Image 46" src="Admin-panel/sc46.jpg"> | <img style="width: 250px;" alt="Image 47" src="Admin-panel/sc47.jpg"> | <img style="width: 250px;" alt="Image 48" src="Admin-panel/sc48.jpg">
 
 
 
@@ -147,7 +147,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [license-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/younes-hellalet
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Admin-panel/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
