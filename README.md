@@ -28,7 +28,7 @@
 [JQuery-url]: https://jquery.com
 
 
-# **Badges**
+# **The Islamic Da'wah Application Balagh**
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -36,10 +36,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-
-# **The Islamic Da'wah Application Balagh**
 
 <table border="1" align="center">
   <thead>
@@ -58,14 +54,13 @@
 
 # Table of Contents
 
-1. [Badges](#badges)
-2. [Project Overview](#the-islamic-dawah-application-balagh)
-3. [Balagh Logo & Download](#balagh-logo--download)
-4. [Source Code & Description](#source-code--description)
-5. [Screenshots & Features](#screenshots--features-users-applications--admin-panel)
+1. [Project Overview](#the-islamic-dawah-application-balagh)
+2. [Balagh Logo & Download](#balagh-logo--download)
+3. [Source Code & Description](#source-code--description)
+4. [Screenshots & Features](#screenshots--features-users-applications--admin-panel)
    - [Users App](#1users-app)
    - [Admin Panel](#2admin-panel)
-6. [For Similar Applications](#for-similar-applications)
+5. [For Similar Applications](#for-similar-applications)
 
 
 # **Balagh Logo & Download**
