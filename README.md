@@ -5,15 +5,13 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# BLAGH LOGO + بلاغ
-<p align="center">
- <img width="400" alt="wonderous-banner-400w" src="logo.png">
-</p>
+# بلاغ
 <p align="center">
  <img width="800" alt="wonderous-banner-800w" src="poster.png">
 </p>
-
-
+<p align="center">
+ <img width="320" alt="wonderous-banner-320w" src="logo.png">
+</p>
 
 Navigator Setting | Settings | MainPage background
 ---|---|---
