@@ -52,7 +52,7 @@
   </tbody>
 </table>
 
-# Table of Contents
+<!-- # Table of Contents
 
 1. [Project Overview](#the-islamic-dawah-application-balagh)
 2. [Balagh Logo & Download](#balagh-logo--download)
@@ -61,7 +61,7 @@
    - [Users App](#1users-app)
    - [Admin Panel](#2admin-panel)
 5. [For Similar Applications](#for-similar-applications)
-
+ -->
 
 # **Balagh Logo & Download**
 
