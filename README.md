@@ -43,14 +43,6 @@
           </a>
           <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
-          <!-- </a>
-          <a href="https://appgallery.huawei.com/#/app/CXXXXXXXX" target="_blank">
-            <img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/stores/Generic/00000002/headers/appgallery_generic_header.png" alt="Available on Huawei AppGallery" width="150"/>
-          </a>
-          <a href="screenshots/app-galery.png" target="_blank">
-            <img src="screenshots/amazon-appstore.png" alt="Available on Amazon Appstore" width="150"/>
-          </a> -->
-        </p>
       </td>
     </tr>
   </tbody>
@@ -86,58 +78,41 @@ Login English | Register English | Home English
 <img width="250" alt="Login English" src="screenshots/Users-App/login-en.jpg"> | <img width="250" alt="Register English" src="screenshots/Users-App/register-en.jpg"> | <img width="250" alt="Home English" src="screenshots/Users-App/home-en.jpg">
 
 
-# Screenshots
 <p align="center">
     <h2>Admins-Panel Application Screenshots</h2>
 </p>
 
-<!-- Row 1 -->
-<img style="width: 250; alt="Image 1" src="images/sc1.jpg"> | <img style="width: 250; alt="Image 2" src="images/sc2.jpg"> | <img style="width: 250; alt="Image 3" src="images/sc3.jpg">
+<img style="width: 250px;" alt="Image 1" src="images/sc1.jpg"> | <img style="width: 250px;" alt="Image 2" src="images/sc2.jpg"> | <img style="width: 250px;" alt="Image 3" src="images/sc3.jpg">
 
-<!-- Row 2 -->
-<img style="width: 250; alt="Image 4" src="images/sc4.jpg"> | <img style="width: 250; alt="Image 5" src="images/sc5.jpg"> | <img style="width: 250; alt="Image 6" src="images/sc6.jpg">
+<img style="width: 250px;" alt="Image 4" src="images/sc4.jpg"> | <img style="width: 250px;" alt="Image 5" src="images/sc5.jpg"> | <img style="width: 250px;" alt="Image 6" src="images/sc6.jpg">
 
-<!-- Row 3 -->
-<img style="width: 250; alt="Image 7" src="images/sc7.jpg"> | <img style="width: 250; alt="Image 8" src="images/sc8.jpg"> | <img style="width: 250; alt="Image 9" src="images/sc9.jpg">
+<img style="width: 250px;" alt="Image 7" src="images/sc7.jpg"> | <img style="width: 250px;" alt="Image 8" src="images/sc8.jpg"> | <img style="width: 250px;" alt="Image 9" src="images/sc9.jpg">
 
-<!-- Row 4 -->
-<img style="width: 250; alt="Image 10" src="images/sc10.jpg"> | <img style="width: 250; alt="Image 11" src="images/sc11.jpg"> | <img style="width: 250; alt="Image 12" src="images/sc12.jpg">
+<img style="width: 250px;" alt="Image 10" src="images/sc10.jpg"> | <img style="width: 250px;" alt="Image 11" src="images/sc11.jpg"> | <img style="width: 250px;" alt="Image 12" src="images/sc12.jpg">
 
-<!-- Row 5 -->
-<img style="width: 250; alt="Image 13" src="images/sc13.jpg"> | <img style="width: 250; alt="Image 14" src="images/sc14.jpg"> | <img style="width: 250; alt="Image 15" src="images/sc15.jpg">
+<img style="width: 250px;" alt="Image 13" src="images/sc13.jpg"> | <img style="width: 250px;" alt="Image 14" src="images/sc14.jpg"> | <img style="width: 250px;" alt="Image 15" src="images/sc15.jpg">
 
-<!-- Row 6 -->
-<img style="width: 250; alt="Image 16" src="images/sc16.jpg"> | <img style="width: 250; alt="Image 17" src="images/sc17.jpg"> | <img style="width: 250; alt="Image 18" src="images/sc18.jpg">
+<img style="width: 250px;" alt="Image 16" src="images/sc16.jpg"> | <img style="width: 250px;" alt="Image 17" src="images/sc17.jpg"> | <img style="width: 250px;" alt="Image 18" src="images/sc18.jpg">
 
-<!-- Row 7 -->
-<img style="width: 250; alt="Image 19" src="images/sc19.jpg"> | <img style="width: 250; alt="Image 20" src="images/sc20.jpg"> | <img style="width: 250; alt="Image 21" src="images/sc21.jpg">
+<img style="width: 250px;" alt="Image 19" src="images/sc19.jpg"> | <img style="width: 250px;" alt="Image 20" src="images/sc20.jpg"> | <img style="width: 250px;" alt="Image 21" src="images/sc21.jpg">
 
-<!-- Row 8 -->
-<img style="width: 250; alt="Image 22" src="images/sc22.jpg"> | <img style="width: 250; alt="Image 23" src="images/sc23.jpg"> | <img style="width: 250; alt="Image 24" src="images/sc24.jpg">
+<img style="width: 250px;" alt="Image 22" src="images/sc22.jpg"> | <img style="width: 250px;" alt="Image 23" src="images/sc23.jpg"> | <img style="width: 250px;" alt="Image 24" src="images/sc24.jpg">
 
-<!-- Row 9 -->
-<img style="width: 250; alt="Image 25" src="images/sc25.jpg"> | <img style="width: 250; alt="Image 26" src="images/sc26.jpg"> | <img style="width: 250; alt="Image 27" src="images/sc27.jpg">
+<img style="width: 250px;" alt="Image 25" src="images/sc25.jpg"> | <img style="width: 250px;" alt="Image 26" src="images/sc26.jpg"> | <img style="width: 250px;" alt="Image 27" src="images/sc27.jpg">
 
-<!-- Row 10 -->
-<img style="width: 250; alt="Image 28" src="images/sc28.jpg"> | <img style="width: 250; alt="Image 29" src="images/sc29.jpg"> | <img style="width: 250; alt="Image 30" src="images/sc30.jpg">
+<img style="width: 250px;" alt="Image 28" src="images/sc28.jpg"> | <img style="width: 250px;" alt="Image 29" src="images/sc29.jpg"> | <img style="width: 250px;" alt="Image 30" src="images/sc30.jpg">
 
-<!-- Row 11 -->
-<img style="width: 250; alt="Image 31" src="images/sc31.jpg"> | <img style="width: 250; alt="Image 32" src="images/sc32.jpg"> | <img style="width: 250; alt="Image 33" src="images/sc33.jpg">
+<img style="width: 250px;" alt="Image 31" src="images/sc31.jpg"> | <img style="width: 250px;" alt="Image 32" src="images/sc32.jpg"> | <img style="width: 250px;" alt="Image 33" src="images/sc33.jpg">
 
-<!-- Row 12 -->
-<img style="width: 250; alt="Image 34" src="images/sc34.jpg"> | <img style="width: 250; alt="Image 35" src="images/sc35.jpg"> | <img style="width: 250; alt="Image 36" src="images/sc36.jpg">
+<img style="width: 250px;" alt="Image 34" src="images/sc34.jpg"> | <img style="width: 250px;" alt="Image 35" src="images/sc35.jpg"> | <img style="width: 250px;" alt="Image 36" src="images/sc36.jpg">
 
-<!-- Row 13 -->
-<img style="width: 250; alt="Image 37" src="images/sc37.jpg"> | <img style="width: 250; alt="Image 38" src="images/sc38.jpg"> | <img style="width: 250; alt="Image 39" src="images/sc39.jpg">
+<img style="width: 250px;" alt="Image 37" src="images/sc37.jpg"> | <img style="width: 250px;" alt="Image 38" src="images/sc38.jpg"> | <img style="width: 250px;" alt="Image 39" src="images/sc39.jpg">
 
-<!-- Row 14 -->
-<img style="width: 250; alt="Image 40" src="images/sc40.jpg"> | <img style="width: 250; alt="Image 41" src="images/sc41.jpg"> | <img style="width: 250; alt="Image 42" src="images/sc42.jpg">
+<img style="width: 250px;" alt="Image 40" src="images/sc40.jpg"> | <img style="width: 250px;" alt="Image 41" src="images/sc41.jpg"> | <img style="width: 250px;" alt="Image 42" src="images/sc42.jpg">
 
-<!-- Row 15 -->
-<img style="width: 250; alt="Image 43" src="images/sc43.jpg"> | <img style="width: 250; alt="Image 44" src="images/sc44.jpg"> | <img style="width: 250; alt="Image 45" src="images/sc45.jpg">
+<img style="width: 250px;" alt="Image 43" src="images/sc43.jpg"> | <img style="width: 250px;" alt="Image 44" src="images/sc44.jpg"> | <img style="width: 250px;" alt="Image 45" src="images/sc45.jpg">
 
-<!-- Row 16 -->
-<img style="width: 250; alt="Image 46" src="images/sc46.jpg"> | <img style="width: 250; alt="Image 47" src="images/sc47.jpg"> | <img style="width: 250; alt="Image 48" src="images/sc48.jpg">
+<img style="width: 250px;" alt="Image 46" src="images/sc46.jpg"> | <img style="width: 250px;" alt="Image 47" src="images/sc47.jpg"> | <img style="width: 250px;" alt="Image 48" src="images/sc48.jpg">
 
 
 
@@ -160,8 +135,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
