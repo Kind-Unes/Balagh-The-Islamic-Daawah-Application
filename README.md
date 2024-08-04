@@ -80,11 +80,33 @@
   </tbody>
 </table>
 
-# You can Source code (For multiple Applications) Via :
-<p align="center">
-  <a href="https://younes-codes.web.app">
+
+<table border="1" width="100%" align="center">
+  <thead>
+    <tr>
+      <th colspan="2">Balagh Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="50%">
+        <h2>Source Code</h2>
+         <a href="https://younes-codes.web.app">
     <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
   </a>
+      </td>
+      <td align="left" width="50%">
+        <h2>App Description</h2>
+        <p>It might take some time for the app to get uploaded due to the strict policies of the app stores</p>
+       </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# You can Source code (For multiple Applications) Via :
+<p align="center">
+ 
 </p>
 
 
@@ -153,6 +175,7 @@
 <img width="260" alt="Image 43" src="screenshots/Admin-panel/sc (43).jpg"> | <img width="260" alt="Image 44" src="screenshots/Admin-panel/sc (44).jpg"> | <img width="260" alt="Image 45" src="screenshots/Admin-panel/sc (45).jpg">
 
 <img width="260" alt="Image 46" src="screenshots/Admin-panel/sc (46).jpg"> | <img width="260" alt="Image 47" src="screenshots/Admin-panel/sc (47).jpg"> | <img width="260" alt="Image 48" src="screenshots/Admin-panel/sc (48).jpg">
+
 
 
 
