@@ -9,11 +9,20 @@
 <p align="center">
  <img src="poster.png">
 </p>
-<p align="center">
-  Balagh Logo |
-  ---|
-  <img width="320" alt="wonderous-banner-320w" src="logo.png"> |
-</p>
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>Application Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="320" alt="wonderous-banner-320w" src="logo.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 Navigator Setting | Settings | MainPage background
