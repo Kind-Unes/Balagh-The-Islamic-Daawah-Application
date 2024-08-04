@@ -26,13 +26,26 @@
 <table border="1" align="center">
   <thead>
     <tr>
-      <th>أيقونة التطبيق</th>
+      <th colspan="2">أيقونة التطبيق</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
         <img width="320" alt="wonderous-banner-320w" src="logo.png">
+      </td>
+      <td align="center">
+        <h3>Coming Soon</h3>
+        <p>
+          <a href="#">
+            <img width="150" alt="Download on the App Store" src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2022-03-15&kind=iossoftware&bubble=ios_apps">
+          </a>
+        </p>
+        <p>
+          <a href="#">
+            <img width="150" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
+          </a>
+        </p>
       </td>
     </tr>
   </tbody>
