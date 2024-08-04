@@ -57,7 +57,7 @@
 </table>
 
 # Screenshots
-<p align="center"> 
+<p align="center">
     <h2>Users Application Screenshots</h2>
 </p>
 
@@ -65,41 +65,41 @@ Login | Register | Home
 ---|---|---
 <img width="200" alt="018" src="screenshots/Users-App/login.jpg"> | 
 <img width="200" alt="018" src="screenshots/Users-App/register.jpg"> | 
-<img width="200" alt="018" src="screenshots/Users-App/home.jpg"> 
+<img width="200" alt="018" src="screenshots/Users-App/home.jpg"> |
 
 
 Profile | Settings | Define Islam
 ---|---|---
 <img width="200" alt="018" src="screenshots/Users-App/profile.jpg"> | 
 <img width="200" alt="018" src="screenshots/Users-App/settings.jpg"> | 
-<img width="200" alt="018" src="screenshots/Users-App/define-islam.jpg"> 
+<img width="200" alt="018" src="screenshots/Users-App/define-islam.jpg"> |
 
 
 Informations | Contact Us | Saved Content
 ---|---|---
 <img width="200" alt="018" src="screenshots/Users-App/info.jpg"> | 
 <img width="200" alt="018" src="screenshots/Users-App/contact-us.jpg"> | 
-<img width="200" alt="018" src="screenshots/Users-App/saved-content.jpg"> 
+<img width="200" alt="018" src="screenshots/Users-App/saved-content.jpg"> |
  
 
 Content Main Branch | Content Second Branch | Content Main Screen
 ---|---|---
 <img width="200" alt="018" src="screenshots/Users-App/branch-1.jpg"> | 
 <img width="200" alt="018" src="screenshots/Users-App/branch-2.jpg"> | 
-<img width="200" alt="018" src="screenshots/Users-App/videos.jpg"> 
+<img width="200" alt="018" src="screenshots/Users-App/videos.jpg"> |
 
 Da'wa Form 1 |  Da'wa Form 2 | Define Islam En
 ---|---|---
 <img width="200" alt="018" src="screenshots/Users-App/form-1.jpg"> | 
 <img width="200" alt="018" src="screenshots/Users-App/form-2.jpg"> | 
-<img width="200" alt="018" src="screenshots/Users-App/define-islam-en.jpg"> 
+<img width="200" alt="018" src="screenshots/Users-App/define-islam-en.jpg"> |
 
 
 Login English | Register English | Home English
 ---|---|---
 <img width="200" alt="018" src="screenshots/Users-App/login-en.jpg"> | 
 <img width="200" alt="018" src="screenshots/Users-App/register-en.jpg"> | 
-<img width="200" alt="018" src="screenshots/Users-App/home-en.jpg"> 
+<img width="200" alt="018" src="screenshots/Users-App/home-en.jpg"> |
 
 
 
