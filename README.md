@@ -16,12 +16,11 @@
   <tbody>
     <tr>
       <td align="center">
-         <img src="poster.png">
+         <img src="poster.png" alt="Application Poster">
       </td>
     </tr>
   </tbody>
 </table>
-
 
 <table border="1" width="100%" align="center">
   <thead>
@@ -32,7 +31,7 @@
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <img width="320" alt="wonderous-banner-320w" src="logo.png">
+        <img width="320" alt="Balagh Logo" src="logo.png">
       </td>
       <td align="left" width="50%">
         <h2>Coming Soon For The App Stores</h2>
@@ -43,6 +42,8 @@
           </a>
           <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
+          </a>
+       </p>
       </td>
     </tr>
   </tbody>
@@ -53,71 +54,69 @@
     <h2>Users Application Screenshots</h2>
 </p>
 
-Login | Register | Home
----|---|---
-<img width="250" alt="Login" src="screenshots/Users-App/login.jpg"> | <img width="250" alt="Register" src="screenshots/Users-App/register.jpg"> | <img width="250" alt="Home" src="screenshots/Users-App/home.jpg">
+| Login | Register | Home |
+|---|---|---|
+| <img width="250" alt="Login" src="screenshots/Users-App/login.jpg"> | <img width="250" alt="Register" src="screenshots/Users-App/register.jpg"> | <img width="250" alt="Home" src="screenshots/Users-App/home.jpg"> |
 
-Profile | Settings | Define Islam
----|---|---
-<img width="250" alt="Profile" src="screenshots/Users-App/profile.jpg"> | <img width="250" alt="Settings" src="screenshots/Users-App/settings.jpg"> | <img width="250" alt="Define Islam" src="screenshots/Users-App/define-islam.jpg">
+| Profile | Settings | Define Islam |
+|---|---|---|
+| <img width="250" alt="Profile" src="screenshots/Users-App/profile.jpg"> | <img width="250" alt="Settings" src="screenshots/Users-App/settings.jpg"> | <img width="250" alt="Define Islam" src="screenshots/Users-App/define-islam.jpg"> |
 
-Information | Contact Us | Saved Content
----|---|---
-<img width="250" alt="Information" src="screenshots/Users-App/info.jpg"> | <img width="250" alt="Contact Us" src="screenshots/Users-App/contact-us.jpg"> | <img width="250" alt="Saved Content" src="screenshots/Users-App/saved-content.jpg">
+| Information | Contact Us | Saved Content |
+|---|---|---|
+| <img width="250" alt="Information" src="screenshots/Users-App/info.jpg"> | <img width="250" alt="Contact Us" src="screenshots/Users-App/contact-us.jpg"> | <img width="250" alt="Saved Content" src="screenshots/Users-App/saved-content.jpg"> |
 
-Content Main Branch | Content Second Branch | Content Main Screen
----|---|---
-<img width="250" alt="Content Main Branch" src="screenshots/Users-App/branch-1.jpg"> | <img width="250" alt="Content Second Branch" src="screenshots/Users-App/branch-2.jpg"> | <img width="250" alt="Content Main Screen" src="screenshots/Users-App/videos.jpg">
+| Content Main Branch | Content Second Branch | Content Main Screen |
+|---|---|---|
+| <img width="250" alt="Content Main Branch" src="screenshots/Users-App/branch-1.jpg"> | <img width="250" alt="Content Second Branch" src="screenshots/Users-App/branch-2.jpg"> | <img width="250" alt="Content Main Screen" src="screenshots/Users-App/videos.jpg"> |
 
-Da'wa Form 1 | Da'wa Form 2 | Define Islam EN
----|---|---
-<img width="250" alt="Da'wa Form 1" src="screenshots/Users-App/form-1.jpg"> | <img width="250" alt="Da'wa Form 2" src="screenshots/Users-App/form-2.jpg"> | <img width="250" alt="Define Islam EN" src="screenshots/Users-App/define-islam-en.jpg">
+| Da'wa Form 1 | Da'wa Form 2 | Define Islam EN |
+|---|---|---|
+| <img width="250" alt="Da'wa Form 1" src="screenshots/Users-App/form-1.jpg"> | <img width="250" alt="Da'wa Form 2" src="screenshots/Users-App/form-2.jpg"> | <img width="250" alt="Define Islam EN" src="screenshots/Users-App/define-islam-en.jpg"> |
 
-Login English | Register English | Home English
----|---|---
-<img width="250" alt="Login English" src="screenshots/Users-App/login-en.jpg"> | <img width="250" alt="Register English" src="screenshots/Users-App/register-en.jpg"> | <img width="250" alt="Home English" src="screenshots/Users-App/home-en.jpg">
+| Login English | Register English | Home English |
+|---|---|---|
+| <img width="250" alt="Login English" src="screenshots/Users-App/login-en.jpg"> | <img width="250" alt="Register English" src="screenshots/Users-App/register-en.jpg"> | <img width="250" alt="Home English" src="screenshots/Users-App/home-en.jpg"> |
 
+<p align="center">
+    <h2>Admins-Panel Application Screenshots</h2>
+</p>
 
-**<h1>Admins-Panel Application Screenshots</h1>**
+<img width="260" alt="Image 1" src="screenshots/Admin-panel/sc (1).jpg"> | <img width="260" alt="Image 2" src="screenshots/Admin-panel/sc (2).jpg"> | <img width="260" alt="Image 3" src="screenshots/Admin-panel/sc (3).jpg">
 
-<img style="width: 260px;" alt="Image 1" src="screenshots/Admin-panel/sc (1).jpg"> | <img style="width: 260px;" alt="Image 2" src="screenshots/Admin-panel/sc (2).jpg"> | <img style="width: 260px;" alt="Image 3" src="screenshots/Admin-panel/sc (3).jpg">
+<img width="260" alt="Image 4" src="screenshots/Admin-panel/sc (4).jpg"> | <img width="260" alt="Image 5" src="screenshots/Admin-panel/sc (5).jpg"> | <img width="260" alt="Image 6" src="screenshots/Admin-panel/sc (6).jpg">
 
-<img style="width: 260px;" alt="Image 4" src="screenshots/Admin-panel/sc (4).jpg"> | <img style="width: 260px;" alt="Image 5" src="screenshots/Admin-panel/sc (5).jpg"> | <img style="width: 260px;" alt="Image 6" src="screenshots/Admin-panel/sc (6).jpg">
+<img width="260" alt="Image 7" src="screenshots/Admin-panel/sc (7).jpg"> | <img width="260" alt="Image 8" src="screenshots/Admin-panel/sc (8).jpg"> | <img width="260" alt="Image 9" src="screenshots/Admin-panel/sc (9).jpg">
 
-<img style="width: 260px;" alt="Image 7" src="screenshots/Admin-panel/sc (7).jpg"> | <img style="width: 260px;" alt="Image 8" src="screenshots/Admin-panel/sc (8).jpg"> | <img style="width: 260px;" alt="Image 9" src="screenshots/Admin-panel/sc (9).jpg">
+<img width="260" alt="Image 10" src="screenshots/Admin-panel/sc (10).jpg"> | <img width="260" alt="Image 11" src="screenshots/Admin-panel/sc (11).jpg"> | <img width="260" alt="Image 12" src="screenshots/Admin-panel/sc (12).jpg">
 
-<img style="width: 260px;" alt="Image 10" src="screenshots/Admin-panel/sc (10).jpg"> | <img style="width: 260px;" alt="Image 11" src="screenshots/Admin-panel/sc (11).jpg"> | <img style="width: 260px;" alt="Image 12" src="screenshots/Admin-panel/sc (12).jpg">
+<img width="260" alt="Image 13" src="screenshots/Admin-panel/sc (13).jpg"> | <img width="260" alt="Image 14" src="screenshots/Admin-panel/sc (14).jpg"> | <img width="260" alt="Image 15" src="screenshots/Admin-panel/sc (15).jpg">
 
-<img style="width: 260px;" alt="Image 13" src="screenshots/Admin-panel/sc (13).jpg"> | <img style="width: 260px;" alt="Image 14" src="screenshots/Admin-panel/sc (14).jpg"> | <img style="width: 260px;" alt="Image 15" src="screenshots/Admin-panel/sc (15).jpg">
+<img width="260" alt="Image 16" src="screenshots/Admin-panel/sc (16).jpg"> | <img width="260" alt="Image 17" src="screenshots/Admin-panel/sc (17).jpg"> | <img width="260" alt="Image 18" src="screenshots/Admin-panel/sc (18).jpg">
 
-<img style="width: 260px;" alt="Image 16" src="screenshots/Admin-panel/sc (16).jpg"> | <img style="width: 260px;" alt="Image 17" src="screenshots/Admin-panel/sc (17).jpg"> | <img style="width: 260px;" alt="Image 18" src="screenshots/Admin-panel/sc (18).jpg">
+<img width="260" alt="Image 19" src="screenshots/Admin-panel/sc (19).jpg"> | <img width="260" alt="Image 20" src="screenshots/Admin-panel/sc (20).jpg"> | <img width="260" alt="Image 21" src="screenshots/Admin-panel/sc (21).jpg">
 
-<img style="width: 260px;" alt="Image 19" src="screenshots/Admin-panel/sc (19).jpg"> | <img style="width: 260px;" alt="Image 20" src="screenshots/Admin-panel/sc (20).jpg"> | <img style="width: 260px;" alt="Image 21" src="screenshots/Admin-panel/sc (21).jpg">
+<img width="260" alt="Image 22" src="screenshots/Admin-panel/sc (22).jpg"> | <img width="260" alt="Image 23" src="screenshots/Admin-panel/sc (23).jpg"> | <img width="260" alt="Image 24" src="screenshots/Admin-panel/sc (24).jpg">
 
-<img style="width: 260px;" alt="Image 22" src="screenshots/Admin-panel/sc (22).jpg"> | <img style="width: 260px;" alt="Image 23" src="screenshots/Admin-panel/sc (23).jpg"> | <img style="width: 260px;" alt="Image 24" src="screenshots/Admin-panel/sc (24).jpg">
+<img width="260" alt="Image 25" src="screenshots/Admin-panel/sc (25).jpg"> | <img width="260" alt="Image 26" src="screenshots/Admin-panel/sc (26).jpg"> | <img width="260" alt="Image 27" src="screenshots/Admin-panel/sc (27).jpg">
 
-<img style="width: 260px;" alt="Image 25" src="screenshots/Admin-panel/sc (25).jpg"> | <img style="width: 260px;" alt="Image 26" src="screenshots/Admin-panel/sc (26).jpg"> | <img style="width: 260px;" alt="Image 27" src="screenshots/Admin-panel/sc (27).jpg">
+<img width="260" alt="Image 28" src="screenshots/Admin-panel/sc (28).jpg"> | <img width="260" alt="Image 29" src="screenshots/Admin-panel/sc (29).jpg"> | <img width="260" alt="Image 30" src="screenshots/Admin-panel/sc (30).jpg">
 
-<img style="width: 260px;" alt="Image 28" src="screenshots/Admin-panel/sc (28).jpg"> | <img style="width: 260px;" alt="Image 29" src="screenshots/Admin-panel/sc (29).jpg"> | <img style="width: 260px;" alt="Image 30" src="screenshots/Admin-panel/sc (30).jpg">
+<img width="260" alt="Image 31" src="screenshots/Admin-panel/sc (31).jpg"> | <img width="260" alt="Image 32" src="screenshots/Admin-panel/sc (32).jpg"> | <img width="260" alt="Image 33" src="screenshots/Admin-panel/sc (33).jpg">
 
-<img style="width: 260px;" alt="Image 31" src="screenshots/Admin-panel/sc (31).jpg"> | <img style="width: 260px;" alt="Image 32" src="screenshots/Admin-panel/sc (32).jpg"> | <img style="width: 260px;" alt="Image 33" src="screenshots/Admin-panel/sc (33).jpg">
+<img width="260" alt="Image 34" src="screenshots/Admin-panel/sc (34).jpg"> | <img width="260" alt="Image 35" src="screenshots/Admin-panel/sc (35).jpg"> | <img width="260" alt="Image 36" src="screenshots/Admin-panel/sc (36).jpg">
 
-<img style="width: 260px;" alt="Image 34" src="screenshots/Admin-panel/sc (34).jpg"> | <img style="width: 260px;" alt="Image 35" src="screenshots/Admin-panel/sc (35).jpg"> | <img style="width: 260px;" alt="Image 36" src="screenshots/Admin-panel/sc (36).jpg">
+<img width="260" alt="Image 37" src="screenshots/Admin-panel/sc (37).jpg"> | <img width="260" alt="Image 38" src="screenshots/Admin-panel/sc (38).jpg"> | <img width="260" alt="Image 39" src="screenshots/Admin-panel/sc (39).jpg">
 
-<img style="width: 260px;" alt="Image 37" src="screenshots/Admin-panel/sc (37).jpg"> | <img style="width: 260px;" alt="Image 38" src="screenshots/Admin-panel/sc (38).jpg"> | <img style="width: 260px;" alt="Image 39" src="screenshots/Admin-panel/sc (39).jpg">
+<img width="260" alt="Image 40" src="screenshots/Admin-panel/sc (40).jpg"> | <img width="260" alt="Image 41" src="screenshots/Admin-panel/sc (41).jpg"> | <img width="260" alt="Image 42" src="screenshots/Admin-panel/sc (42).jpg">
 
-<img style="width: 260px;" alt="Image 40" src="screenshots/Admin-panel/sc (40).jpg"> | <img style="width: 260px;" alt="Image 41" src="screenshots/Admin-panel/sc (41).jpg"> | <img style="width: 260px;" alt="Image 42" src="screenshots/Admin-panel/sc (42).jpg">
+<img width="260" alt="Image 43" src="screenshots/Admin-panel/sc (43).jpg"> | <img width="260" alt="Image 44" src="screenshots/Admin-panel/sc (44).jpg"> | <img width="260" alt="Image 45" src="screenshots/Admin-panel/sc (45).jpg">
 
-<img style="width: 260px;" alt="Image 43" src="screenshots/Admin-panel/sc (43).jpg"> | <img style="width: 260px;" alt="Image 44" src="screenshots/Admin-panel/sc (44).jpg"> | <img style="width: 260px;" alt="Image 45" src="screenshots/Admin-panel/sc (45).jpg">
-
-<img style="width: 260px;" alt="Image 46" src="screenshots/Admin-panel/sc (46).jpg"> | <img style="width: 260px;" alt="Image 47" src="screenshots/Admin-panel/sc (47).jpg"> | <img style="width: 260px;" alt="Image 48" src="screenshots/Admin-panel/sc (48).jpg">
-
-
-
+<img width="260" alt="Image 46" src="screenshots/Admin-panel/sc (46).jpg"> | <img width="260" alt="Image 47" src="screenshots/Admin-panel/sc (47).jpg"> | <img width="260" alt="Image 48" src="screenshots/Admin-panel/sc (48).jpg">
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section lists the major frameworks and libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -129,9 +128,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/graphs/contributors
@@ -161,4 +157,4 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
