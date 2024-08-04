@@ -10,7 +10,7 @@
 <table border="1" align="center">
   <thead>
     <tr>
-      <th>Application's Logo</th>
+      <th>Application's Poster</th>
     </tr>
   </thead>
   <tbody>
