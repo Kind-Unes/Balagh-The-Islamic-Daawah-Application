@@ -17,7 +17,6 @@
     <tr>
       <td align="center">
          <img src="poster.png">
-
       </td>
     </tr>
   </tbody>
