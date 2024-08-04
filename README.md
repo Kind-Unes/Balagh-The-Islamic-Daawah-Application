@@ -100,7 +100,7 @@
         <p><strong>English:</strong></p>
         <p>Please apply via this button for source code access. We do this to ensure that only authorized individuals can obtain the code and to maintain control over its distribution.</p>
         <p><strong>Arabic:</strong></p>
-        <p>يرجى التقديم عبر هذا الزر للوصول إلى الشيفرة المصدرية. نقوم بذلك لضمان حصول الأشخاص المصرح لهم فقط على الشيفرة وللحفاظ على السيطرة على توزيعها.</p>git 
+        <p>يرجى التقديم عبر هذا الزر للوصول إلى السورس كود. نقوم بذلك لضمان حصول الأشخاص المصرح لهم فقط على الكود وللحفاظ على السيطرة توزيعها.</p>
         <a href="https://younes-codes.web.app">
           <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
         </a>
