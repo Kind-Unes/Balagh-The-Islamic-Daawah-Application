@@ -109,6 +109,41 @@
   </tbody>
 </table>
 
+# Features
+
+## Users App
+
+- **Rich Da'awa form** 
+  - Invite your non-muslims friends to islam using our REich dynamic Form.
+- **Educational Resources:** 
+  - Access educational videos, articles, and e-books on Islam.
+  - Brief glances about Islamic teachings.
+- **Personalized Profiles:** 
+  - Customize and manage personal profiles.
+- **Multilingual Support:** 
+  - Available in Arabic and English.
+
+## Admin Panel
+
+- **Admin Access:** 
+  - Separate panels for app owners, Islamic associations, and daieas.
+- **Global Statistics:** 
+  - Detailed insights into da'awa activities and outcomes.
+- **User & Da'awa Stats:** 
+  - Track data on users, daieas, and associations.
+- **Content Management:** 
+  - Manage educational content and define Islamic concepts.
+- **Form Options Management:** 
+  - Configure languages, religions, and countries.
+- **Association & Da'awa Management:** 
+  - Oversee associations and daieas with control panels.
+- **Request Management:** 
+  - Track and manage da'awa requests with detailed status updates.
+- **Result Of Da'awa:** 
+  - Track the Da'awa progess and results.
+
+
+
 
 # Screenshots (Users Applications & Admin Panel) :
 <p align="center">
@@ -175,39 +210,6 @@
 
 <img width="260" alt="Image 46" src="screenshots/Admin-panel/sc (46).jpg"> | <img width="260" alt="Image 47" src="screenshots/Admin-panel/sc (47).jpg"> | <img width="260" alt="Image 48" src="screenshots/Admin-panel/sc (48).jpg">
 
-
-## Features
-
-### Users App
-
-- **Rich Da'awa form** 
-  - Invite your non-muslims friends to islam using our REich dynamic Form.
-- **Educational Resources:** 
-  - Access educational videos, articles, and e-books on Islam.
-  - Brief glances about Islamic teachings.
-- **Personalized Profiles:** 
-  - Customize and manage personal profiles.
-- **Multilingual Support:** 
-  - Available in Arabic and English.
-
-### Admin Panel
-
-- **Admin Access:** 
-  - Separate panels for app owners, Islamic associations, and daieas.
-- **Global Statistics:** 
-  - Detailed insights into da'awa activities and outcomes.
-- **User & Da'awa Stats:** 
-  - Track data on users, daieas, and associations.
-- **Content Management:** 
-  - Manage educational content and define Islamic concepts.
-- **Form Options Management:** 
-  - Configure languages, religions, and countries.
-- **Association & Da'awa Management:** 
-  - Oversee associations and daieas with control panels.
-- **Request Management:** 
-  - Track and manage da'awa requests with detailed status updates.
-- **Result Of Da'awa:** 
-  - Track the Da'awa progess and results.
 
 
 # For Similar Applications:
