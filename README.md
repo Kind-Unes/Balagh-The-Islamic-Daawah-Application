@@ -27,12 +27,27 @@
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 
+# Table of Contents
+
+1. [Badges](#badges)
+2. [Project Overview](#the-islamic-dawah-application-balagh)
+3. [Balagh Logo & Download](#balagh-logo--download)
+4. [Source Code & Description](#source-code--description)
+5. [Screenshots & Features](#screenshots--features-users-applications--admin-panel)
+   - [Users App](#1users-app)
+   - [Admin Panel](#2admin-panel)
+6. [For Similar Applications](#for-similar-applications)
+
+
+
+# **Badges**
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -52,6 +67,8 @@
     </tr>
   </tbody>
 </table>
+
+# **Balagh Logo & Download**
 
 <table border="1" width="100%" align="center">
   <thead>
@@ -79,6 +96,8 @@
     </tr>
   </tbody>
 </table>
+
+# **Source Code & Description**
 
 <table border="1" width="100%" align="center">
   <thead>
@@ -109,9 +128,9 @@
   </tbody>
 </table>
 
-# Screenshots & Features (Users Applications & Admin Panel) :
+# **Screenshots & Features (Users Applications & Admin Panel)**
 
-## 1.Users App
+## 1. Users App
 
 - **Rich Da'awa form** 
   - Invite your non-muslims friends to islam using our REich dynamic Form.
@@ -211,7 +230,7 @@
 
 
 
-# For Similar Applications:
+# **For Similar Applications**
 Contact Me Via: [hellalet.younes@gmail.com](mailto:hellalet.younes@gmail.com)
 
 
