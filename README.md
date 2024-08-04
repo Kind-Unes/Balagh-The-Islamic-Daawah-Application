@@ -6,13 +6,28 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # **تطبيق الدعوة الاسلامية بلاغ**
-<p align="center">
- <img src="poster.png">
-</p>
+
 <table border="1" align="center">
   <thead>
     <tr>
-      <th>Application Logo</th>
+      <th>بوستر تطبيق بلاغ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+         <img src="poster.png">
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>أيقونة التطبيق</th>
     </tr>
   </thead>
   <tbody>
