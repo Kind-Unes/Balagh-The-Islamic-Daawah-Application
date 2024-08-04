@@ -109,9 +109,9 @@
   </tbody>
 </table>
 
-# Features
+# Screenshots & Features (Users Applications & Admin Panel) :
 
-## Users App
+## 1.Users App
 
 - **Rich Da'awa form** 
   - Invite your non-muslims friends to islam using our REich dynamic Form.
@@ -123,29 +123,7 @@
 - **Multilingual Support:** 
   - Available in Arabic and English.
 
-## Admin Panel
 
-- **Admin Access:** 
-  - Separate panels for app owners, Islamic associations, and daieas.
-- **Global Statistics:** 
-  - Detailed insights into da'awa activities and outcomes.
-- **User & Da'awa Stats:** 
-  - Track data on users, daieas, and associations.
-- **Content Management:** 
-  - Manage educational content and define Islamic concepts.
-- **Form Options Management:** 
-  - Configure languages, religions, and countries.
-- **Association & Da'awa Management:** 
-  - Oversee associations and daieas with control panels.
-- **Request Management:** 
-  - Track and manage da'awa requests with detailed status updates.
-- **Result Of Da'awa:** 
-  - Track the Da'awa progess and results.
-
-
-
-
-# Screenshots (Users Applications & Admin Panel) :
 <p align="center">
     <h2>Users Application Screenshots</h2>
 </p>
@@ -177,6 +155,27 @@
 <p align="center">
     <h2>Admins-Panel Application Screenshots</h2>
 </p>
+
+## 2.Admin Panel
+
+- **Admin Access:** 
+  - Separate panels for app owners, Islamic associations, and daieas.
+- **Global Statistics:** 
+  - Detailed insights into da'awa activities and outcomes.
+- **User & Da'awa Stats:** 
+  - Track data on users, daieas, and associations.
+- **Content Management:** 
+  - Manage educational content and define Islamic concepts.
+- **Form Options Management:** 
+  - Configure languages, religions, and countries.
+- **Association & Da'awa Management:** 
+  - Oversee associations and daieas with control panels.
+- **Request Management:** 
+  - Track and manage da'awa requests with detailed status updates.
+- **Result Of Da'awa:** 
+  - Track the Da'awa progess and results.
+
+
 
 <img width="260" alt="Image 1" src="screenshots/Admin-panel/sc (1).jpg"> | <img width="260" alt="Image 2" src="screenshots/Admin-panel/sc (2).jpg"> | <img width="260" alt="Image 3" src="screenshots/Admin-panel/sc (3).jpg">
 
