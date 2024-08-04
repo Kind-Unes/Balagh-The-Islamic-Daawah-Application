@@ -10,7 +10,8 @@
  <img src="poster.png">
 </p>
 <p align="center">
- <img width="320" alt="wonderous-banner-320w" src="logo.png">
+ ---|
+ <img width="320" alt="wonderous-banner-320w" src="logo.png"> |
 </p>
 
 Navigator Setting | Settings | MainPage background
